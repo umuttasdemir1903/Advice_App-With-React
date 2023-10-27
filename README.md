@@ -4,4 +4,4 @@
 
 Screen View
 
-<img src="">
+<img src="./src/images/advice_app.gif">
